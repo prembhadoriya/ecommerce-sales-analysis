@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+101,Laptop Pro 14,Electronics,65000
+102,Wireless Mouse,Electronics,1200
+103,Mechanical Keyboard,Electronics,3500
+104,USB-C Hub,Electronics,2200
+105,Bluetooth Headphones,Electronics,4500
+106,Smart Watch,Electronics,7500
+107,Phone Stand,Electronics,900
+108,Power Bank,Electronics,1800
+109,Office Chair,Furniture,12000
+110,Study Desk,Furniture,9500
+111,Bookshelf,Furniture,7000
+112,Table Lamp,Furniture,1800
+113,Backpack,Accessories,2200
+114,Travel Bag,Accessories,3200
+115,Wallet,Accessories,1500
+116,Running Shoes,Sports,4800
+117,Yoga Mat,Sports,1200
+118,Dumbbells,Sports,2500
+119,T-Shirt,Clothing,900
+120,Jeans,Clothing,2200
+121,Hoodie,Clothing,1800
+122,Jacket,Clothing,3500
+123,Coffee Maker,Home Appliances,5500
+124,Air Fryer,Home Appliances,6200
+125,Electric Kettle,Home Appliances,1800
