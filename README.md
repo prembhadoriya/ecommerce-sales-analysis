@@ -67,7 +67,7 @@ SQL was used to analyze the e-commerce data and calculate key business metrics, 
 - Customer revenue segmentation
 - Product sales performance classification
 
-The SQL queries are available in [Here](../SQL/ecommerce_analysis.sql.sql)
+The SQL queries are available in [Here](../SQL/ecommerce_analysis.sql)
 
 
 ## Excel Analysis
@@ -86,7 +86,7 @@ The analysis included:
 - Monthly order volume
 - Average Order Value (AOV)
 
-The Excel workbook is available in the [Here](<../excel/E-Commerce Sales Analysis.xlsx.xlsx>)
+The Excel workbook is available in the [Here](<../excel/E-Commerce Sales Analysis.xlsx>)
 
 ## Power BI Dashboard
 
@@ -104,7 +104,7 @@ The dashboard includes:
 - Revenue by Customer
 - Monthly Order Volume
 
-The Power BI dashboard file is available in the [Dashboard](../dashboard/ecommerce_dashboard.pbix.pbix) folder.
+The Power BI dashboard file is available in the [Dashboard](../dashboard/ecommerce_dashboard.pbix) folder.
 
 ## Key Insights
 
@@ -125,13 +125,13 @@ based on revenue.
 
 ### Power BI Dashboard
 
-!![Power BI Dashboard](../screenshots/powerbi_dashboard.png.png)
+!![Power BI Dashboard](../screenshots/powerbi_dashboard.png)
 
 ### Excel Dashboard
 
-!![Excel Dashboard](../screenshots/excel_dashboard_1.png.png)
+!![Excel Dashboard](../screenshots/excel_dashboard_1.png)
 
-!![Excel Dashboard](../screenshots/excel_dashboard_2.png.png)
+!![Excel Dashboard](../screenshots/excel_dashboard_2.png)
 
 
 
