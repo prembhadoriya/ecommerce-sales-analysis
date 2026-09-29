@@ -36,7 +36,7 @@ The project focuses on answering the following business questions:
 - **GitHub** — Project documentation and portfolio presentation
 
 ## Dataset
-
+   
 The project uses three CSV datasets:
 
 - `customers.csv` — Customer information such as customer ID, name, city, and signup date.
@@ -67,7 +67,7 @@ SQL was used to analyze the e-commerce data and calculate key business metrics, 
 - Customer revenue segmentation
 - Product sales performance classification
 
-The SQL queries are available in [Here](../SQL/ecommerce_analysis.sql)
+The SQL queries are available in [Here](sql/ecommerce_analysis.sql).
 
 
 ## Excel Analysis
@@ -86,7 +86,7 @@ The analysis included:
 - Monthly order volume
 - Average Order Value (AOV)
 
-The Excel workbook is available in the [Here](<../excel/E-Commerce Sales Analysis.xlsx>)
+The Excel workbook is available in the [Here](excel/E-Commerce%20Sales%20Analysis.xlsx).                                                                          
 
 ## Power BI Dashboard
 
@@ -104,7 +104,7 @@ The dashboard includes:
 - Revenue by Customer
 - Monthly Order Volume
 
-The Power BI dashboard file is available in the [Dashboard](../dashboard/ecommerce_dashboard.pbix) folder.
+The Power BI dashboard file is available in the [Here](dashboard/ecommerce_dashboard.pbix). folder.
 
 ## Key Insights
 
@@ -125,13 +125,13 @@ based on revenue.
 
 ### Power BI Dashboard
 
-!![Power BI Dashboard](../screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
 
 ### Excel Dashboard
 
-!![Excel Dashboard](../screenshots/excel_dashboard_1.png)
+![Excel Dashboard](screenshots/excel_dashboard_1.png)
 
-!![Excel Dashboard](../screenshots/excel_dashboard_2.png)
+![Excel Dashboard](screenshots/excel_dashboard_2.png)
 
 
 
